@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "mocha": "*",
-    "pug": "^2.0.0",
+    "pug": "^2.0.0 || ^3.0.0",
     "should": "*"
   },
   "scripts": {
